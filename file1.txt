@@ -1,5 +1,9 @@
 Hi ji...
+<<<<<<< HEAD
 How are you
 
 
 fsdkfjkjklj
+=======
+How are youfdfgsdfsdfrdsghsrghdf
+>>>>>>> 64a25d85590e6895b74e1c3099629a6ab918c544
