@@ -10,8 +10,13 @@ public class Sample {
 		list.add("Ajith");
 		list.add("Priya");
 		search();
+		addElements();
 	}
 	private static void search() {
+		// TODO Auto-generated method stub
+		
+	}
+	private static void addElements() {
 		// TODO Auto-generated method stub
 		
 	}
